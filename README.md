@@ -34,12 +34,12 @@ A top-down rhythm-based game where player and enemy actions are tied to beats. D
 
 ## How to Reach Me
 Feel free to connect with me via:
-- LinkedIn: [Marvin Mlakha](www.linkedin.com/in/marvin-mlakha-588964339)
+- LinkedIn: [Marvin Mlakha](www.linkedin.com/in/marvin-mlakha-588964339) 
 - Discord: marv2014
 
 ## Fun Facts
 - I enjoy cooking and experimenting with different ingredients/recipes!
 - If you would like to play games with me, connect on Steam: 374462550 or Marv
-- My favorite programming language is Python 
+- My favorite programming language is Java 
 
 Thanks for visiting my GitHub! 🌱
